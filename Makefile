@@ -1,4 +1,5 @@
 # ihsec Makefile
+SHELL := /bin/bash
 
 TARGET = /usr/local/bin/ihsec
 
